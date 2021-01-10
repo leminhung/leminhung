@@ -1,4 +1,5 @@
 ### Hola, I'm Le Minh Hung! 👋
+[![HitCount](http://hits.dwyl.com/leminhhung2001/leminhhung2001.svg)](http://hits.dwyl.com/leminhhung2001/leminhhung2001)
 
 - 🔭 I’m currently working on Hanoi University Of Industry
 - 🌱 I’m currently learning HTML, CSS, JavaScript, NodeJs, ReactJs, SQL,...
