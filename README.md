@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on [Hanoi University Of Industry](https://www.haui.edu.vn/en)
 
+<img align="right" width="400px" height="300px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, NodeJs, ReactJs, SQL,...**
 
 - 👯 I’m looking to collaborate on [Youtobe, Google](https://www.youtube.com/)
