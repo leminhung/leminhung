@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, NodeJs, ReactJs, SQL,...**
 
-- 👯 I’m looking to collaborate on [Youtobe, Google](https://www.youtube.com/)
+<!-- - 👯 I’m looking to collaborate on [Youtobe, Google](https://www.youtube.com/) -->
 
 - 🤝 I’m looking for help with **anyone**
 
