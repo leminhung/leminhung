@@ -2,7 +2,7 @@
 
 <h3 align="center">A third-year student at HAUI 🐤</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leminhhung2001&label=Profile%20views&color=0e75b6&style=flat" alt="leminhhung2001" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=leminhhung2001&label=Profile%20views&color=0e75b6&style=flat" alt="leminhhung2001" /> </p> -->
 
 - 🔭 I’m currently working on [Hanoi University Of Industry](https://www.haui.edu.vn/en)
 
