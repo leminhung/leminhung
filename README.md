@@ -22,18 +22,6 @@
 
 - ⚡ Fun fact **Playing tabletennis, Listening to music,..**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me 🦉</h3>
-<p align="left">
-<!-- <a href="https://dev.to/le minh hung" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="le minh hung" height="30" width="40" /></a> -->
-<a href="https://www.facebook.com/leminh.hung.9256" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="le minh hung" height="30" width="40"/></a>
-<!-- <a href="https://www.youtube.com/c/https://www.youtube.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/" height="30" width="40" /></a> -->
-<a href="https://codeforces.com/profile/pokemon_try" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="pokemon_try" height="30" width="40" /></a>
-<!-- <a href="https://auth.geeksforgeeks.org/user/le minh hung" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="le minh hung" height="30" width="40"/></a> -->
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img
@@ -63,8 +51,8 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=leminhhung2001&show_icons=true&locale=en&layout=compact"
     alt="leminhhung2001" /></p>
 
-<p>&nbsp;<img align="center"
+<!-- <p>&nbsp;<img align="center"
     src="https://github-readme-stats.vercel.app/api?username=leminhhung2001&show_icons=true&locale=en"
-    alt="leminhhung2001" /></p>
+    alt="leminhhung2001" /></p> -->
 
 
