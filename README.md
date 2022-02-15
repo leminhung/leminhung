@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=leminhhung2001&label=Profile%20views&color=0e75b6&style=flat" alt="leminhhung2001" /> </p> -->
 
-<img align="right" width="500px" height="350px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" width="400px" height="300px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 - 🔭 I’m currently working on [HAUI](https://www.haui.edu.vn/en)
 
