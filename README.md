@@ -6,7 +6,7 @@
 
 <img align="right" width="500px" height="350px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 🔭 I’m currently working on [Hanoi University Of Industry](https://www.haui.edu.vn/en)
+- 🔭 I’m currently working on [HAUI](https://www.haui.edu.vn/en)
 
 <!-- - 🌱 I’m currently learning **JavaScript, NodeJs, ReactJs, NoSQL** -->
 
@@ -20,7 +20,7 @@
 
 <!-- - 📫 How to reach me **leminhhungtabletennis@gmail.com** -->
 
-- ⚡ Fun fact **Playing tabletennis, Listening to music,..**
+- ⚡ Fun fact **Playing tabletennis, coding**
 
 
 <h3 align="left">Languages and Tools:</h3>
