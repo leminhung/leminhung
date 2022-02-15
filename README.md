@@ -4,11 +4,11 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=leminhhung2001&label=Profile%20views&color=0e75b6&style=flat" alt="leminhhung2001" /> </p> -->
 
-- 🔭 I’m currently working on [Hanoi University Of Industry](https://www.haui.edu.vn/en)
-
 <img align="right" width="500px" height="350px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 🌱 I’m currently learning **JavaScript, NodeJs, ReactJs, NoSQL**
+- 🔭 I’m currently working on [Hanoi University Of Industry](https://www.haui.edu.vn/en)
+
+<!-- - 🌱 I’m currently learning **JavaScript, NodeJs, ReactJs, NoSQL** -->
 
 <!-- - 👯 I’m looking to collaborate on [Youtobe, Google](https://www.youtube.com/) -->
 
