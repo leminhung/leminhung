@@ -12,7 +12,8 @@
 
 - ⚡ Fun fact **Playing tabletennis, coding, reading book, listening to music,...**
 
-<p align="left">
+<br />
+<p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -74,10 +75,13 @@
   </a>
 </p>
 
-<p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=leminhhung2001&show_icons=true&locale=en&layout=compact"
-    alt="leminhhung2001" /></p>
 
+<!--  languages use-->
+<!-- <p><img align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=leminhhung2001&show_icons=true&locale=en&layout=compact"
+    alt="leminhhung2001" /></p> -->
+
+<!--  github star-->
 <!-- <p>&nbsp;<img align="center"
     src="https://github-readme-stats.vercel.app/api?username=leminhhung2001&show_icons=true&locale=en"
     alt="leminhhung2001" /></p> -->
