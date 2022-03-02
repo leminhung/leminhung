@@ -1,29 +1,17 @@
+<img align="center" height="auto" width="100%" src="https://i.imgur.com/iXuL1HG.png">
+<br />
+
 <h1 align="center">Hi 👋, I'm Le Minh Hung <img  width="35px" height="35px"  src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"></h1>
 
 <h3 align="center">A third-year student at HAUI 🐤</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=leminhhung2001&label=Profile%20views&color=0e75b6&style=flat" alt="leminhhung2001" /> </p> -->
 
-<img align="right" width="400px" height="300px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+- 🔭 I’m currently working on [Ha Noi University of Industry](https://www.haui.edu.vn/en)
 
-- 🔭 I’m currently working on [HAUI](https://www.haui.edu.vn/en)
+- 🌱 I want to become a web devoloper in the near future 🚀
 
-<!-- - 🌱 I’m currently learning **JavaScript, NodeJs, ReactJs, NoSQL** -->
+- ⚡ Fun fact **Playing tabletennis, coding, reading book, listening to music,...**
 
-<!-- - 👯 I’m looking to collaborate on [Youtobe, Google](https://www.youtube.com/) -->
-
-<!-- - 🤝 I’m looking for help with **anyone** -->
-
-<!-- - 😄 Pronouns: **He/His** -->
-
-<!-- - 💬 Ask me about **any problems** -->
-
-<!-- - 📫 How to reach me **leminhhungtabletennis@gmail.com** -->
-
-- ⚡ Fun fact **Playing tabletennis, coding**
-
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank">
     <img
