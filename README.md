@@ -73,6 +73,14 @@
       height="40"
     />
   </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img
+      src="https://img.icons8.com/color/240/000000/docker.png"
+      alt="docker"
+      width="45"
+      height="45"
+    />
+  </a>
 </p>
 
 
