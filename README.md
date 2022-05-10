@@ -81,6 +81,14 @@
       height="45"
     />
   </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img
+      src="https://img.icons8.com/color/452/redux.png"
+      alt="redux"
+      width="45"
+      height="45"
+    />
+  </a>
 </p>
 
 
