@@ -6,9 +6,9 @@
 <h3 align="center">A third-year student at HAUI 🏫</h3>
 
 
-- 🔭 I’m currently working on [Ha Noi University of Industry](https://www.haui.edu.vn/en)
+- 🔭 I’m currently working on [HAUI](https://www.haui.edu.vn/en) with IT major 🦈
 
-- 🌱 I want to become a web devoloper in the near future 🚀
+- 🌱 Want to learn many new things from other people 🚀
 
 - ⚡ Fun fact **Playing tabletennis, coding, reading book, listening to music,...**
 
