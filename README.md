@@ -88,7 +88,7 @@
       height="45"
     />
   </a>
-  <a href="https://www.docker.com/" target="_blank">
+  <a href="https://react-redux.js.org/" target="_blank">
     <img
       src="https://img.icons8.com/color/452/redux.png"
       alt="redux"
