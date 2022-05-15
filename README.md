@@ -96,6 +96,14 @@
       height="45"
     />
   </a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img
+      src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_csharp_icon_130664.png"
+      alt="redux"
+      width="45"
+      height="45"
+    />
+  </a>
 </p>
 
 
