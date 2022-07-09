@@ -113,7 +113,15 @@
       height="40"
     />
   </a>
-	
+  </a>
+    <a href="https://go.dev/doc/" target="_blank">
+    <img
+      src="https://img.icons8.com/color/344/golang.png"
+      alt="golang"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 <br />
