@@ -94,7 +94,15 @@
       height="45"
     />
   </a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <a href="https://www.serverless.com" target="_blank">
+    <img
+      src="https://img.icons8.com/?size=1x&id=QLSAcQC04qAd&format=png"
+      alt="serverless"
+      width="45"
+      height="45"
+    />
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img
       src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_csharp_icon_130664.png"
       alt="redux"
